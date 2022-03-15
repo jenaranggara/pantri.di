@@ -1,0 +1,150 @@
+.container-960{
+    max-width: 960px;
+    margin: auto;
+    /* border: 3px solid #73AD21; */
+    padding: 20px;
+}
+
+.container-fluid{
+    padding: 0;
+ }
+
+ body {
+    background-image: url("img/hero-image.png");
+    background-repeat: no-repeat, repeat;
+    background-size:contain;
+  }
+
+.title{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 80px;
+    color: #4F4F4F;
+    margin-top: 10%;
+}
+
+.subtitle{
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 42px;
+    margin-top: 2%;
+    color: #4F4F4F;
+}
+
+.cta-button{
+    background-color: #FACF26; /* Green */
+    border: none;
+    color: black;
+    padding: 2%;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: center;;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 25px;
+    margin: 30px 2px;
+    cursor: pointer;
+    border-radius: 50px;
+
+    filter: drop-shadow(0px 100px 80px rgba(0, 0, 0, 0.07)) drop-shadow(0px 50.625px 34.875px rgba(0, 0, 0, 0.04725)) drop-shadow(0px 20px 13px rgba(0, 0, 0, 0.035)) drop-shadow(0px 4.375px 4.625px rgba(0, 0, 0, 0.02275));
+}
+
+.button-wa{
+background: #00E676;
+border-radius: 5px;
+color: white;
+margin-bottom: 2%;
+}
+
+.button-email{
+    background: #E66100;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 2%;
+    }
+
+
+.subtitle-bold{
+    width: auto;
+    height: 38px;
+    left: 114px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    /* line-height: 38px; */
+    color: #4F4F4F;
+    margin-bottom: 3%;
+}
+
+#section1{
+    margin-top: 15%;
+    /* border: cadetblue solid 1px; */
+}
+
+#section2 #section3 #section4 #section5 {
+    margin-top: 5%;
+    /* border: cadetblue solid 1px; */
+
+}
+
+#section5{
+    margin-top: 5%;
+}
+
+#contactus{
+    margin-top: 2%;
+}
+
+#footer{
+    margin-top: 15%;
+    padding: 3%;
+    background-color: black;
+    color: white;
+}
+.paragraph{
+    /* height: 225px; */
+    /* margin-top: 2%; */
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 35px;
+    color: #4F4F4F;
+}
+
+.list{
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 45px;
+    /* or 180% */
+
+
+    /* Gray 2 */
+
+    color: #4F4F4F;
+}
+
+.desc_contact_text{
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 35px;
+/* or 175% */
+
+
+/* Gray 2 */
+
+color: #4F4F4F;
+}
+
+/* Gallery style */
